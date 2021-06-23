@@ -1,0 +1,2 @@
+openssl.cafile = E:/XAMPP/htdocs/mail/cacert.pem
+curl.cainfo = E:/XAMPP/htdocs/mail/cacert.pem
